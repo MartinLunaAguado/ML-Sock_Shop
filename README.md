@@ -2,7 +2,7 @@
 # Análisis de Anomalías en Microservicios 
 
 
-Este repositorio contiene dos notebooks desarrollados para practicar el uso de ML, enfocados en la detección y análisis de anomalías en sistemas de microservicios utilizando diversos enfoques, demostrando la eficacia de BARO en particular.
+Este repositorio contiene dos notebooks desarrollados para practicar el uso de ML, enfocados en la detección y análisis de anomalías en sistemas de microservicios utilizando diversos enfoques.
 
 ## Contenido
 
