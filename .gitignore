@@ -1,0 +1,4 @@
+# Ignorar archivos grandes y datos procesados
+default
+SS-All/fse-ss/processed_data_combined.csv
+SS-All/fse-ss/processed_data_combine.csv
